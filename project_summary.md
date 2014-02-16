@@ -4,7 +4,7 @@
 - Rahul Gupta (rahulkgupta)
 
 ## Description
-Cover Art is losing significance in the digital age. Applications such as Spotify and devices such as the Kindle are "thumbnailing" the medium. This application surfaces cover art to promote discovery, inspiration, and appreciation for a medium that is losing significance in the digital age. 
+Cover art is losing significance in the digital age. Applications such as Spotify and devices such as the Kindle are "thumbnailing" the medium. This application brings cover art to the foreground to promote discovery, inspiration, and appreciation for a medium that is losing significance in the digital age. 
 
 ## Link to Prototype
 NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
